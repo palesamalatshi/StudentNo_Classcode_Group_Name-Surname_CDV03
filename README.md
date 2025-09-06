@@ -1,27 +1,51 @@
 # [CDV03] Starter CV for Software Development Role
 
-Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resume for software development roles. This project guides you through the process of creating or refining your CV to effectively showcase your technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
+Welcome to the GitHub repository for my [CDV03] project — **Crafting a Starter CV for a Software Development Role**.  
+This project reflects my journey into front-end web development, focusing on creating a professional resume that highlights my technical skills, education, and portfolio projects tailored for opportunities in the tech industry.
 
-## Project Overview
+---
 
-The goal is to craft a clear, concise, and compelling resume that not only reflects your qualifications but also emphasises your suitability for software development positions. This involves presenting your information in a professional format that captures the attention of hiring managers in the tech industry.
+## 📌 Project Overview
+The goal of this project is to craft a **clear, concise, and compelling resume** that demonstrates my readiness for software development positions. My CV is designed with a strong emphasis on **front-end development** using **React.js** and related technologies, while also showcasing transferable skills, relevant coursework, and personal projects.
 
-### Practical Steps for the Project
+---
 
-1. **Gather and Organise Information**: Compile all relevant professional experiences, technical skills, educational achievements, and projects.
-2. **Contact Information**: Ensure your full name, phone number, professional email, and LinkedIn URL are prominently displayed at the top of your resume.
-3. **Professional Experience**: List your work history, focusing on roles and projects relevant to software development. Highlight your contributions and achievements.
-4. **Technical Skills**: Detail your proficiency in programming languages, frameworks, and tools, especially those pertinent to the job you're aiming for.
-5. **Education and Certifications**: Outline your educational background and any additional training or certifications related to software development.
-6. **Projects Portfolio**: Showcase significant projects to demonstrate your practical experience and technical abilities.
+## 🛠 Practical Steps Followed
+1. **Gathered and Organised Information**  
+   Compiled professional experiences, technical skills, educational achievements, and projects.  
 
-### Submission Guidelines
-1. Finalise your resume in Google Docs format to ensure consistent formatting.
-2. Name your document following the specified format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV03").
-3. Add the link to your Google Docs resume in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
+2. **Contact Information**  
+   Ensured my full name, phone number, professional email, GitHub, and LinkedIn profile are prominently displayed.  
 
-### Link to Resume
-[Your Google Docs Resume](<insert your Google Docs link here>)
+3. **Professional Experience**  
+   Highlighted relevant roles and projects, emphasising contributions to web development and collaboration using Git/GitHub.  
 
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
+4. **Technical Skills**  
+   Documented proficiency in key web technologies such as **HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS**, and development tools.  
+
+5. **Education and Certifications**  
+   Included formal training through **CodeSpace Academy** and additional certifications (Scrimba, Google Accessibility).  
+
+6. **Projects Portfolio**  
+   Showcased my work with links to GitHub repositories, demonstrating my ability to apply technical knowledge to real-world projects.  
+
+---
+
+## 📂 Resume Link
+👉 [View My Resume](<insert your Google Docs link here>)  
+
+*(Please make sure link sharing is set to "Anyone with the link → Viewer")*  
+
+---
+
+## 📑 Submission Guidelines
+- Resume finalised in **Google Docs** format for consistent styling.  
+- Document named according to project format:  
+  `PALMAL25525_SDF0206_GroupA_Palesa-Malatshi_CDV03`  
+- Resume link added to this `README.md`.  
+- Repository link submitted via **LMS Project Tab** before the deadline.  
+
+---
+
+## ✨ Reflection
+This CV is a **living document**. As I continue learning and gaining more experience in software development, I will keep refining it with new projects, skills, and achievements. This project marks the starting point of my professional portfolio, showcasing not just what I’ve learned but also my commitment to growth in the tech industry.
