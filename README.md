@@ -32,7 +32,7 @@ The goal of this project is to craft a **clear, concise, and compelling resume**
 ---
 
 ## 📂 Resume Link
-👉 [View My Resume](<insert your Google Docs link here>)  
+👉 [View My Resume](https://docs.google.com/document/d/1_LhsF2MPWBcwClqVzlDCGVX49alQonE-/edit?usp=drivesdk&ouid=106875610337048107723&rtpof=true&sd=true )
 
 *(Please make sure link sharing is set to "Anyone with the link → Viewer")*  
 
